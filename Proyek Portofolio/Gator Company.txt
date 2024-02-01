@@ -1,0 +1,11 @@
+Deskripsi Perusahaan: Kami adalah perusahaan mode yang menjual pakaian anak-anak bergaya. 
+Barang-barang kami dibuat dengan bahan murah dan dikirim langsung ke rumah Anda. Audiens target kami adalah mahasiswa. 
+Kami ingin menyampaikan rasa misteri, sambil tetap profesional.
+
+Deskripsi Pekerjaan: Anda harus membuat sebuah situs web yang akan menampilkan daftar produk perusahaan. 
+Tujuannya adalah untuk menekankan nilai-nilai merek. Selain halaman utama, situs web akan membutuhkan halaman tentang, halaman produk, 
+dan halaman syarat dan ketentuan. Halaman utama harus memiliki bagian Hubungi Kami. 
+Harus ada panggilan untuk tindakan untuk mendapatkan pengguna untuk berlangganan buletin. Mereka lebih memilih desain mewah, 
+dan ingin Anda menggunakan warna merek, yang berwarna abu-abu. Pertimbangkan preferensi dan nilai-nilai klien.
+
+Batas Waktu: 9 hari
